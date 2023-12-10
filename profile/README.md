@@ -41,15 +41,6 @@
         <a href="https://github.com/adilasomaaa"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       </td>
     </tr>
-    <tr>
-      <td>C193BSY3755</td>
-      <td>Mochamad Kevin Sudrajat</td>
-      <td>Cloud Computing</td>
-      <td>
-        <a href="https://www.linkedin.com/in/mochamad-kevin-sudrajat-701044208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="https://github.com/KevinSudrajat"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-      </td>
-    </tr>
      <tr>
       <td>C009BSY4309</td>
       <td>Andre Gregori Sangari</td>
@@ -57,6 +48,15 @@
       <td>
         <a href="https://www.linkedin.com/in/andregregs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="https://github.com/andregregorisangari"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      </td>
+    </tr>
+     <tr>
+      <td>C193BSY3755</td>
+      <td>Mochamad Kevin Sudrajat</td>
+      <td>Cloud Computing</td>
+      <td>
+        <a href="https://www.linkedin.com/in/mochamad-kevin-sudrajat-701044208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/KevinSudrajat"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       </td>
     </tr>
     <tr>
