@@ -98,4 +98,4 @@
 ## Special Thanks to :
 Ka Haidar Zamzam, in mobile development has been a real wake-up call for us, providing the necessary jolt to drive our progress. With your guidance, we managed to make this application run smoothly.
 
-bu Hanny Retno Hapsari thankyou for providing business insights to our app, adding substantial value to our platform.
+Bu Hanny Retno Hapsari thankyou for providing business insights to our app, adding substantial value to our platform.
