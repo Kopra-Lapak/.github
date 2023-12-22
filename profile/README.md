@@ -86,7 +86,8 @@
     </table>
 </div>
 
-## App Showcase : On Progress
+## App Showcase :
+<img src="https://drive.google.com/uc?id=1rfaF6fRXvtsOiuy7LMiEgJF7QmR1-WTP"></a>
 ### Repository
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kopra-Lapak/Koplak-API-ML)
@@ -94,7 +95,8 @@
 [![Mobile Development](https://img.shields.io/badge/Mobile%20Development-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kopra-Lapak/Koplak-App)
 
 [![Cloud Computing API](https://img.shields.io/badge/Cloud%20Computing%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kopra-Lapak/Koplak-API-CC)
-### Youtube Link : On Progress
+### Youtube Link : 
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wKHuibD8Y9k)
 ## Special Thanks to :
 Ka Haidar Zamzam, in mobile development has been a real wake-up call for us, providing the necessary jolt to drive our progress. With your guidance, we managed to make this application run smoothly.
 
