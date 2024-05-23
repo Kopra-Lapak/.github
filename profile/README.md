@@ -88,6 +88,7 @@
 
 ## App Showcase :
 <img src="https://drive.google.com/uc?id=1rfaF6fRXvtsOiuy7LMiEgJF7QmR1-WTP"></a>
+[![Figma Prototype](https://img.shields.io/badge/Figma%20Prototype-gray?style=for-the-badge&logo=figma&logoColor=F24E1E&link=https://www.figma.com/proto/nsA8bRPqdqInnIpUjNZa2o/File-Persentasi-Kopra-Lapak-UI%2FUX?page-id=2015%3A1838&node-id=2015-2437&starting-point-node-id=2015%3A2429&t=UmCEsUBY6oMkwxbV-1)](https://www.figma.com/proto/nsA8bRPqdqInnIpUjNZa2o/File-Persentasi-Kopra-Lapak-UI%2FUX?page-id=2015%3A1838&node-id=2015-2437&starting-point-node-id=2015%3A2429&t=UmCEsUBY6oMkwxbV-1)
 ### Repository
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kopra-Lapak/Koplak-API-ML)
