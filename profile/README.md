@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/uc?id=1MReeQvrD0RzCDpgEjRbQe8pn5M_64l-C" width="100" height="100"><br>
+    <img src="https://drive.google.com/uc?id=17zZRR4SXKZoZTzstgsclKBow9nu7HvBG" width="100" height="100"><br>
     <i>Empowering Farmers through Technology.</i>
 </div>
 
